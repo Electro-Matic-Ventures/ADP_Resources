@@ -1,0 +1,7 @@
+10000,0,"<0x01>Z00<0x02>E$$$$<0x04>","Clear Flash and RAM Memory"
+500,1,"SETPLAYLISTTOC","Set play list to Flash"
+500,2,"<0x01>Z00<0x02>E#DE<0x04>","Set default drive to E or RAM"
+500,3,"<0x01>Z00<0x02>E.SLA<0x04>","Set the playlist to file label A"
+500,4,"<0x01>Z00<0x02>E#T1<0x04>","Set pause time to 1 second"
+500,5,"<0x01>Z00<0x02>E#MbOb<0x04>","Set in and out mode to Hold"
+500,6,"<0x01>Z00<0x02>AATHIS SIGN IS NOW SETUP FOR ADP PROTOCOL<0x04>","Setup complete message"
